@@ -46,12 +46,13 @@ Challenges of Automated Report Generation
 
  Data Quality:
    - Automated reports are only as accurate as the data they are based on. Poor data quality can lead to incorrect or misleading reports.
-
-     ##OUTPUT
-
-     [report (2).pdf](https://github.com/user-attachments/files/19564148/report.2.pdf)
    
  Customization Complexity:
    - While basic reports are easy to automate, complex, customized reports may require more advanced configuration and handling of multiple data sources.
      Automated report generation streamlines the process of creating, processing, and distributing reports. By integrating tools and technologies, businesses can save time, reduce errors, and ensure consistent reporting, which can significantly enhance decision-making and operational efficiency.
- OUTPUT
+ 
+ 
+ ##OUTPUT
+
+     https://github.com/user-attachments/files/19564148/report.2.pdf
+   
