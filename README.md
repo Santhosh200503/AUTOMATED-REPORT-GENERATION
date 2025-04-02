@@ -54,5 +54,6 @@ Challenges of Automated Report Generation
  
  ##OUTPUT
 
+![Image](https://github.com/user-attachments/assets/38929337-1eb6-4325-9f87-0df7d42e5c9b)
      
    
