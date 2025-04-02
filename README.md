@@ -10,7 +10,8 @@ DOMAIN: PYTHON PROGRAMMINNG
 DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTHOSH
-Automated Report Generation
+
+##Automated Report Generation
 Automated report generation refers to the process of creating reports without manual intervention by using specialized software tools or scripts. It involves gathering data from various sources, processing it, and presenting it in a structured format (usually a PDF, Excel, or HTML) based on pre-defined templates or parameters.
 
 Automated report generation is widely used in various industries, including finance, healthcare, marketing, and software development, to reduce human effort, ensure accuracy, and generate reports in real-time or on-demand.
